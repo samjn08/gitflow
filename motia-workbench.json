@@ -1,0 +1,43 @@
+[
+  {
+    "id": "audit-workflow",
+    "config": {
+      "steps\\api\\get-analysis-details.step.ts": {
+        "x": 0,
+        "y": 0
+      },
+      "src\\events\\static-analysis.step.ts": {
+        "x": 700,
+        "y": 34
+      },
+      "src\\events\\final-aggregation.step.ts": {
+        "x": 1523,
+        "y": 115
+      },
+      "src\\events\\fetch-pr-data.step.ts": {
+        "x": 350,
+        "y": 34
+      },
+      "src\\events\\ai-code-reviewer.step.ts": {
+        "x": 1050,
+        "y": 34
+      },
+      "src\\cron\\dependency-watchdog.step.ts": {
+        "x": 1050,
+        "y": 190
+      },
+      "src\\api\\start-audit.step.ts": {
+        "x": 0,
+        "y": 243
+      },
+      "src\\api\\get-session.step.ts": {
+        "x": 6,
+        "y": 224
+      },
+      "src\\api\\get-pull-requests.step.ts": {
+        "x": 0,
+        "y": 426
+      }
+    }
+  }
+]
