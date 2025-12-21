@@ -6,3 +6,8 @@ venv
 .mermaid
 dist
 *.pyc
+.cursor
+.clinerules
+.cursor-config.json
+AGENTS.md
+.motia

@@ -2,10 +2,6 @@
   {
     "id": "audit-workflow",
     "config": {
-      "steps\\api\\get-analysis-details.step.ts": {
-        "x": 0,
-        "y": 0
-      },
       "src\\events\\static-analysis.step.ts": {
         "x": 700,
         "y": 34
@@ -22,21 +18,21 @@
         "x": 1050,
         "y": 34
       },
-      "src\\cron\\dependency-watchdog.step.ts": {
-        "x": 1050,
-        "y": 190
-      },
       "src\\api\\start-audit.step.ts": {
-        "x": 0,
-        "y": 243
+        "x": -176,
+        "y": 83
       },
       "src\\api\\get-session.step.ts": {
-        "x": 6,
-        "y": 224
+        "x": -123,
+        "y": 468
       },
       "src\\api\\get-pull-requests.step.ts": {
+        "x": 31,
+        "y": 667
+      },
+      "src\\api\\get-analysis-details.step.ts": {
         "x": 0,
-        "y": 426
+        "y": 649
       }
     }
   }

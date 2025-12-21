@@ -16,7 +16,7 @@ GitFlow AI is an autonomous pull request auditor that performs comprehensive cod
 
 ## 🚀 Key Features
 
-- **🤖 AI-Powered Code Review**: Uses OpenRouter's Qwen/Qwen3-Coder model for comprehensive analysis
+- **🤖 AI-Powered Code Review**: Uses OpenRouter API for comprehensive AI analysis
 - **🔒 Security Scanning**: Detects secrets, vulnerabilities, and security issues
 - **📊 Multi-Category Scoring**: Code quality, security, performance, and best practices
 - **⚡ Real-Time Streaming**: Live progress updates with WebSocket integration
@@ -263,23 +263,12 @@ GITHUB_TOKEN=github_pat_xxxxx
 - **Testing**: Write tests for new features
 - **Documentation**: Update README for API changes
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Motia Framework**: For the amazing unified backend framework
 - **OpenRouter**: For providing access to multiple AI models
 - **React Flow**: For the beautiful workflow visualization
-- **Tailwind CSS**: For the utility-first CSS framework
-
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/gitflow-ai/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/gitflow-ai/discussions)
-- **Discord**: Join our community on [Discord](https://discord.gg/gitflow-ai)
 
 ---
 
-**Built with ❤️ for hackathons and modern development teams**
+**Built with ❤️ for modern development teams**
